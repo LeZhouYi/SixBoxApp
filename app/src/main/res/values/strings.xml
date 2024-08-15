@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">六号盒子</string>
+    <string name="ipSelect_001">登录</string>
+    <string name="ipSelect_002">请输入域名</string>
+    <string name="ipSelect_003">域名：</string>
+    <string name="ipSelect_004">场景：</string>
+    <string name="ipSelect_005">请输入场景</string>
+    <string name="ipSelect_006">确定</string>
+    <string name="ipSelect_007">保存配置</string>
+    <string name="ipSelect_008">输入服务器地址以及场景，其中场景多用于局域网访问，当某一局域网地址访问失败时会尝试使用其它场景的地址。</string>
+    <string name="ipSelect_009">域名不能为空，请重新输入</string>
+    <string name="ipSelect_010">格式错误，请重新输入</string>
+    <string name="ipSelect_011">场景不能为空，请重新输入</string>
+    <string name="ipSelect_012">该地址访问失败，请重新输入</string>
+    <string name="loading_001">加载中</string>
+    <string name="loading_002">访问失败，请重新登录</string>
+</resources>
